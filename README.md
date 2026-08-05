@@ -24,6 +24,6 @@ Me chamo Bianca Fugita, tenho 19 anos e sou natural de São Paulo. Atualmente, e
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biancafugita-crypto&show_icons=true&theme=catppuccin&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biancafugita-crypto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
 </p>
 
